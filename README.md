@@ -32,8 +32,10 @@
 - 对于主机网络，请确保提供有效的 IP 地址和网关。
 - 只支持linux系统，windows系统请自个开发去，反正理论上是可以运行的
 
-## 贡献
-就只有开发者一个人喵喵喵
-
-##使用说明
+## 使用说明
 http://wangwang-yuna.top/archives/wyqemu-guizhe-shi-gei-qemumei-you-jie-mian-zhun-bei-de
+
+## 贡献
+wangwang-yuna
+
+
