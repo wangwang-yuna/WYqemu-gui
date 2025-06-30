@@ -34,3 +34,6 @@
 
 ## 贡献
 就只有开发者一个人喵喵喵
+
+##使用说明
+http://wangwang-yuna.top/archives/wyqemu-guizhe-shi-gei-qemumei-you-jie-mian-zhun-bei-de
